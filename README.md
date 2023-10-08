@@ -1,4 +1,4 @@
-# Power-BI-project_2_superstore
+# Power-BI-project_2_superstore_sales_dashboard
 
 The "Superstore Sales Dashboard and Sales Forecasting" project aims to create an insightful and visually engaging Power BI dashboard that provides a comprehensive overview of sales performance for a superstore, while also incorporating a robust sales forecasting mechanism. This project leverages the power of data visualization and advanced analytics to assist decision-makers in understanding historical sales trends and making informed decisions for the future.
 
